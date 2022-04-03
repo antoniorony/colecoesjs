@@ -1,2 +1,2 @@
 # colecoesjs
-Curso de coleções com javascript
+Curso de javascript pela Digital Innovation One.
