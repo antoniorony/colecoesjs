@@ -1,0 +1,10 @@
+body{
+    background-color: aliceblue;
+    display: flex;
+}
+
+
+.dark-mode {
+    background-color: black;
+    color: aliceblue;
+}
